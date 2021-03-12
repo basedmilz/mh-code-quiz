@@ -5,4 +5,6 @@ This is an application that incorporates the usage of HTML, CSS, and Javascript.
 * [GitHub Repository]()
 * [Deployed GitHub Website](https://github.com/basedmilz/mh-code-quiz)
 
-![Code-Quiz Screenshot](mh-code-quiz/assets/css/animequizscreenshot.png)
+## Mockup: 
+
+![Code-Quiz Screenshot](mh-code-quiz/assets/animequizscreenshot.png)
