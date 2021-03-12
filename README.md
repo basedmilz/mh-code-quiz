@@ -1,8 +1,7 @@
-# mh-code-quiz
+# MH-code-quiz
 A website with a Code Quiz UI
 
-This is a quiz application using HTML, CSS, and Javascript. This application emphasizes the use of Javascript to provide quiz questions and collect user data to determine whether the answers to a question are correct, this then generates a score and appends a final page of results from the user data. 
-
+This is an application that incorporates the usage of HTML, CSS, and Javascript. This application emphasizes the use of Javascript to provide quiz questions tracks inputted data to see if its correct then saves the results generated in total score and appends to the page as well as saves within local storage.
 * [GitHub Repository]()
 * [Deployed GitHub Website](https://github.com/basedmilz/mh-code-quiz)
 
