@@ -7,4 +7,4 @@ This is an application that incorporates the usage of HTML, CSS, and Javascript.
 
 ## Mockup: 
 
-![Code-Quiz Screenshot](mh-code-quiz/assets/animequizscreenshot.png)
+![Code-Quiz Screenshot](animequizscreenshot.png)
